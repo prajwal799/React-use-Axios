@@ -12,7 +12,6 @@ function loginUser({ email, password }) {
     },
     url: "https://reqres.in/api/login"
   };
-  console.log(email, password);
   return axios(config);
 }
 

@@ -1,0 +1,21 @@
+button{
+  margin-left: 5px;
+  width:100px;
+  height: 30px;
+  border: none;
+  background: aqua;
+  color: green;
+  font-size: 14px;
+}
+h1{
+  color: blue;
+}
+input{
+  width: 140px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.delete_btn {
+  color: red
+}
